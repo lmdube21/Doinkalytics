@@ -1,0 +1,33 @@
+Team,Abbr,latitude,longitude,indoor,turf
+Arizona Cardinals,ARI,33.5277,-112.262608,Retractable,Grass
+Atlanta Falcons,ATL,33.755489,-84.401993,Retractable,Turf
+Baltimore Ravens,BAL,39.277969,-76.622767,No,Grass
+Buffalo Bills,BUF,42.773739,-78.786978,No,Turf
+Carolina Panthers,CAR,35.225808,-80.852861,No,Turf
+Chicago Bears,CHI,41.862306,-87.616672,No,Grass
+Cincinnati Bengals,CIN,39.095442,-84.516039,No,Turf
+Cleveland Browns,CLE,41.506022,-81.699564,No,Grass
+Dallas Cowboys,DAL,32.747778,-97.092778,Retractable,Turf
+Denver Broncos,DEN,39.743936,-105.020097,No,Grass
+Detroit Lions,DET,42.340156,-83.045808,Yes,Turf
+Green Bay Packers,GB,44.501306,-88.062167,No,Hybrid
+Houston Texans,HOU,29.684781,-95.410956,Retractable,Turf
+Indianapolis Colts,IND,39.760056,-86.163806,Retractable,Turf
+Jacksonville Jaguars,JAX,30.323925,-81.637356,No,Grass
+Kansas City Chiefs,KC,39.048914,-94.484039,No,Grass
+Los Angeles Chargers,LAC,33.953587,-118.33963,Yes,Turf
+Los Angeles Rams,LA,33.953587,-118.33963,Yes,Turf
+Las Vegas Raiders,LV,36.090794,-115.183952,Yes,Grass
+Miami Dolphins,MIA,25.957919,-80.238842,No,Grass
+Minnesota Vikings,MIN,44.973881,-93.258094,Yes,Turf
+New England Patriots,NE,42.090925,-71.26435,No,Turf
+New Orleans Saints,NO,29.950931,-90.081364,Yes,Turf
+New York Giants,NYG,40.812194,-74.076983,No,Turf
+New York Jets,NYJ,40.812194,-74.076983,No,Turf
+Philadelphia Eagles,PHI,39.900775,-75.167453,No,Hybrid
+Pittsburgh Steelers,PIT,40.446786,-80.015761,No,Grass
+Seattle Seahawks,SEA,47.595153,-122.331625,No,Turf
+San Francisco 49ers,SF,37.713486,-122.386256,No,Grass
+Tampa Bay Buccaneers,TB,27.975967,-82.50335,No,Grass
+Tennessee Titans,TEN,36.166461,-86.771289,No,Turf
+Washington Commanders,WAS,38.907697,-76.864517,No,Grass
