@@ -1,7 +1,6 @@
 library(tidyverse)
 library(lubridate)
-library(catboost)
-library(mlbench)
+
 
 #pull in stadium lat long data
 stad_lat_long<- read_csv("stadium_lat_long.csv") |>
@@ -355,7 +354,7 @@ print(model_summary_df)
 
 #saveRDS(XGB, "NFL_Field_Goal_Model_XGB.rds")
 
-
+XGB <- readRDS("NFL_Field_Goal_Model_XGB.rds")
 
 modeling_data$pred <-  predict(XGB, modeling_data, type = "prob")
 modeling_data$fg_percent_chance <- modeling_data$pred$`1`
@@ -408,6 +407,7 @@ table_df <- kicker_results |>
 
 
 library(gt)
+library(gtExtras)
 
 
 table_df |> head(5) |>
