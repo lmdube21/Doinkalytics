@@ -1,0 +1,44 @@
+Stadium,home_team,stadium_id,latitude,longitude,turf,indoors,elevation
+Raymond James Stadium,TB,TAM00,27.975967,-82.50335,Grass,No,11
+Mercedes-Benz Stadium,ATL,ATL97,33.755489,-84.401993,Turf,Yes,314
+New Era Field,BUF,BUF00,42.773739,-78.786978,Turf,No,222
+Bank of America Stadium,CAR,CAR00,35.225808,-80.852861,Turf,No,220
+Paul Brown Stadium,CIN,CIN00,39.095442,-84.516039,Turf,No,150
+Ford Field,DET,DET00,42.340156,-83.045808,Turf,Yes,188
+NRG Stadium,HOU,HOU00,29.684781,-95.410956,Turf,Yes,18
+Lucas Oil Stadium,IND,IND00,39.760056,-86.163806,Turf,Yes,211
+Nissan Stadium,TEN,NAS00,36.166461,-86.771289,Turf,No,122
+FedExField,WAS,WAS00,38.907697,-76.864517,Grass,No,68
+GEHA Field at Arrowhead Stadium,KC,KAN00,39.048914,-94.484039,Grass,No,259
+Gillette Stadium,NE,BOS00,42.090925,-71.26435,Turf,No,89
+TIAA Bank Stadium,JAX,JAX00,30.323925,-81.637356,Grass,No,0
+MetLife Stadium,NYG,NYC01,40.812194,-74.076983,Turf,No,2
+SoFi Stadium,LA,LAX01,33.953587,-118.33963,Turf,Yes,40
+Allegiant Stadium,LV,VEG00,36.090794,-115.183952,Grass,Yes,666
+Soldier Field,CHI,CHI98,41.862306,-87.616672,Grass,No,180
+FirstEnergy Stadium,CLE,CLE00,41.506022,-81.699564,Grass,No,180
+Hard Rock Stadium,MIA,MIA00,25.957919,-80.238842,Grass,No,5
+Lincoln Financial Field,PHI,PHI00,39.900775,-75.167453,Hybrid,No,4
+Heinz Field,PIT,PIT00,40.446786,-80.015761,Grass,No,229
+State Farm Stadium,ARI,PHO00,33.5277,-112.262608,Grass,Yes,328
+Lumen Field,SEA,SEA00,47.595153,-122.331625,Turf,No,11
+M&T Bank Stadium,BAL,BAL00,39.277969,-76.622767,Grass,No,5
+Lambeau Field,GB,GNB00,44.501306,-88.062167,Hybrid,No,190
+Empower Field at Mile High,DEN,DEN00,39.743936,-105.020097,Grass,No,1588
+U.S. Bank Stadium,MIN,MIN01,44.973881,-93.258094,Turf,Yes,253
+Levi's Stadium,SF,SFO01,37.713486,-122.386256,Grass,No,16
+AT&T Stadium,DAL,DAL00,32.747778,-97.092778,Turf,Yes,193
+Mercedes-Benz Superdome,NO,NOR00,29.950931,-90.081364,Turf,Yes,23
+Tottenham Stadium,,LON02,51.604252,-0.0662,Grass,No,34
+Wembley Stadium,,LON00,51.556,-0.2796,Grass,No,27
+Allianz Arena,,GER00,48.218967,11.623746,Grass,No,520
+Azteca Stadium,,MEX00,19.3029,-99.1505,Grass,No,2200
+Deutsche Bank Park,,FRA00,50.0686,8.6455,Grass,No,112
+Arena Corinthians,,SAO00,-23.5453,-46.4742,Grass,No,799
+Georgia Dome,ATL,ATL00,33.7817,-84.3873,Turf,Yes,314
+Edward Jones Dome,STL,STL00,38.6328,-90.1885,Turf,Yes,142
+TCF Bank Stadium,MIN,MIN98,44.9765,-93.2245,Turf,No,252
+Qualcomm Stadium,SD,SDG00,32.7765,-117.1183,Grass,No,16
+O.co Coliseum,OAK,OAK00,37.7514,-122.2009,Grass,No,-6
+Los Angeles Memorial Coliseum,LA,LAX99,34.0137,-118.2878,Grass,No,43
+StubHub Center,LAC,LAX97,33.8644,-118.2611,Grass,No,10
